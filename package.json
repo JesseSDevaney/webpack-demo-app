@@ -1,0 +1,24 @@
+{
+  "name": "webpack-demo-app",
+  "version": "1.0.0",
+  "description": "[![GitHub](https://img.shields.io/github/license/jessesdevaney/webpack-demo-app?style=flat-square)](https://github.com/jessesdevaney/webpack-demo-app/blob/main/LICENSE)",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseSDevaney/webpack-demo-app.git"
+  },
+  "author": "Jesse S Devaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesseSDevaney/webpack-demo-app/issues"
+  },
+  "homepage": "https://github.com/JesseSDevaney/webpack-demo-app#readme",
+  "devDependencies": {
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
