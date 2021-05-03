@@ -5,8 +5,8 @@ const { merge } = require("webpack-merge");
 module.exports = merge(common, {
   mode: "development",
   output: {
-    filename: "static/js/main.js",
+    filename: "static/js/[name].bundle.js",
     path: path.resolve(__dirname, "build"),
-    assetModuleFilename: "static/imgs/[name][ext]"
+    assetModuleFilename: "static/imgs/[name][ext]",
   },
 });
