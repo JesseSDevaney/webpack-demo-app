@@ -6,5 +6,5 @@ This repository is for demonstrating how to setup Webpack for a simple project. 
 
 ## License
 
-Copyright (c) 2021 Jesse S Devaney <JesseSDevaney@gmail.com>  
+Copyright (c) 2021 Jesse S. Devaney
 MIT License
